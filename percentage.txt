@@ -1,0 +1,10 @@
+class percentage
+{
+    public static void main(String[] args) {
+        double total_value=100;
+        double given_value=75.5;
+        double Percentage;
+        Percentage=(given_value/total_value)*100;
+        System.out.println("percentage is:"+Percentage);
+    }
+}
